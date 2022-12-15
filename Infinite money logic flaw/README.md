@@ -1,4 +1,4 @@
-This script programmed in the go language is an alternative to burpsuite professional intruder.
+This script programmed in the go language is an alternative to burpsuite professional.
 
 Scritp example for "Infinite money logic flaw" portswigger lab.
 
