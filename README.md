@@ -1,8 +1,7 @@
 # Go-burpsuite-intruder-alternative
-This scripts programmed in the go language is an alternative to burpsuite intruder.
+This scripts programmed in the go language is an alternative to burpsuite professional.
+When trying to do the portswigger labs, it turns out that for some of them it is not possible to overcome them with burpsuite community edition, either because the intruder is limited or because other more advanced features are not available.
 
-The first one is programmed specifically for the portswigger lab "2FA broken logic". 
-The second one is programmed specifically for the portswigger lab "2FA bypass using a brute-force attack".
-The second one is more complete.
+In each folder you can find the script with the solution and necessary files. In any case it will be necessary to edit some parameters to adapt them to each laboratory.
 
-The community edition of burpsuite, has the intruder very limited in terms of queries per second. This scripts in go would offer an alternative to the intruder by conveniently modifying the parameters of the script. Go is a very efficient programming language for http calls.
+Go is a very efficient programming language for http calls.
