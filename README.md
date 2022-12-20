@@ -1,4 +1,4 @@
-# Go-burpsuite-intruder-alternative
+# Go-burpsuite-alternative-for-portswigger-labs
 This scripts programmed in the go language is an alternative to burpsuite professional.
 
 When trying to do the portswigger labs, it turns out that for some of them it is not possible to overcome them with burpsuite community edition, either because the intruder is limited or because other more advanced features are not available.
